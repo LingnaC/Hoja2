@@ -1,3 +1,7 @@
+/*Universidad del Valle de Guatemala
+Algoritmos y estruccturas de datos
+Linda Chen 23117
+Isabella Obando 23074*/
 public class CalculadoraPostfix {
     private Pila<Integer> pila;
 
