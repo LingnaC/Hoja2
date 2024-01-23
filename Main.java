@@ -1,3 +1,7 @@
+/*Universidad del Valle de Guatemala
+Algoritmos y estruccturas de datos
+Linda Chen 23173
+Isabella Obando 23074*/
 import java.io.FileNotFoundException;
 import java.util.List;
 
