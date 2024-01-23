@@ -1,3 +1,8 @@
+
+/*Universidad del Valle de Guatemala
+Algoritmos y estruccturas de datos
+Linda Chen 23173
+Isabella Obando 23074*/
 import java.util.Vector;
 
 public class PilaVector<T> implements Pila<T> {
